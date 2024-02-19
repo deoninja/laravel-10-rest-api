@@ -76,3 +76,13 @@ php artisan make:request V1/UpdateCustomerRequest
 credentials
 email: admin@admin.com
 password : password
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+
+ git config --global user.name "Your Name"
+ git config --global user.email you@example.com
