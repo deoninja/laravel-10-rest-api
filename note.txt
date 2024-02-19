@@ -1,0 +1,5 @@
+{
+admin: "4|gfs7PUkWQNKjeg0FkLIa9HjIC1n5AXuHOC6si0HK267ed387",
+update: "5|IOmtO4aPrlamEe6z9J328o6biyB6D6hgaHiO9JePac3f1ff9",
+basic: "6|5BvpV9F7zICKPM9NvHoTpe0ZVotCuxKlxuXUXGnE70ceb6b3"
+}
